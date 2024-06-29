@@ -1,3 +1,5 @@
+#sinalizacao
+
 f = open('sinalizacao.csv')
 
 for line in f:
